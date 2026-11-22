@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+figuras/
+fig_*.png
+A1_*.csv
+solicitudes_limpio.csv
