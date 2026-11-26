@@ -2,7 +2,7 @@
 
 **Confiabilidad y planeación de capacidad de un servicio de inferencia de IA** (caso *AndesVision AI*).
 
-Grupo 1: Henry Cantor, Santiago Fajardo, Sebastián Páez, Sebastián Acuña.
+Grupo 2: Henry Cantor, Santiago Fajardo, Sebastián Páez, Sebastián Acuña.
 
 ## Contenido
 
