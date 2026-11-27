@@ -8,8 +8,13 @@ Grupo 2: Henry Cantor, Santiago Fajardo, Sebastián Páez, Sebastián Acuña.
 
 | Archivo | Descripción |
 |---|---|
-| `CCI_Proyecto_Final_Grupo2.ipynb` | Notebook principal (Partes A–G). |
+| `CCI_Proyecto_Final_Grupo2.ipynb` | Notebook principal (E1, Partes A–H). |
 | `CCI_Proyecto_Final_2026_3.pdf` | Enunciado del proyecto. |
+| `entrega/INFORME CCI PROYECTO FINAL GRUPO 2.pdf` | Informe (E2), con la declaración de uso de IA (E7) en el Anexo A. |
+| `entrega/MEMORANDO EJECUTIVO CCI GRUPO 2.pdf` | Memorando ejecutivo al CTO (E4, G4). |
+| `entrega/DEDUCCIONES MANUSCRITAS CCI GRUPO 2.pdf` | Deducciones a mano de B3, C1, D3 y F5 (E3). |
+| `entrega/BITACORA CCI PROYECTO FINAL GRUPO 2.pdf` | Bitácora de decisiones (E5). |
+| `entrega/ENLACE COLAB CCI GRUPO 2.pdf` | Enlace al notebook en Colab. |
 | `solicitudes.csv` | 20 min de producción, una fila por solicitud (datos del grupo). |
 | `monitoreo.csv` | 6000 minutos del entorno de pruebas (alertas D1, D2 e incidentes). |
 | `solicitudes_validacion.csv` | Segunda ventana de producción. **Solo se usa en el ítem F6.** |
